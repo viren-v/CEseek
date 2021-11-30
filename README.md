@@ -1,3 +1,7 @@
+Diverse digital and fuzzy composite transcriptional elements are prevalent features of mammalian cis-regulomes
+Virendra K. Chaudhri, Harinder Singh
+bioRxiv 2021.11.26.470154; doi: https://doi.org/10.1101/2021.11.26.470154
+
 # CEseek
 CEseek
 
